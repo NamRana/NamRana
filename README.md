@@ -45,3 +45,11 @@
  <!----------------------------------------------------------------------Connect with me------------------------------------------------------------------------->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namrana&" alt="namrana" /></p>
+
+
+
+## 📈 Productivity Stats:
+
+<div align="left" >
+ <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namrana&theme=github"  display=block width=100% height=auto  alt="profile-summary" >
+<div>
