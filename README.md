@@ -12,9 +12,9 @@
 <h3 align="center">A passionate full stack developer (MERN, NEXTJS, GRAPHQL)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namrana&label=Profile%20views&color=0e75b6&style=flat" alt="namrana" /> </p>
 
-<h1 align="center"> 
+<!-- <h1 align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Naman+Rana;Software+Engineer;Full+Stack+Devloper">
-</h1>
+</h1> -->
 
 - 🔭 I’m currently working on **ReactJs, NextJs, Redux, GraphQL**
 
