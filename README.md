@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm <a href="https://prakhar-singh.netlify.app/" target="_blank">Naman Rana</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://namrana.netlify.app/"
+ target="_blank">Naman Rana</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 
 <h3 align="center">Software Developer &#127470; &#127475</h3>
 
