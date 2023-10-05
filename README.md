@@ -1,4 +1,29 @@
-<img align="center" alt="Coding" width="100%" height="300" src="https://i.postimg.cc/0QCNQqRh/link.jpg)](https://postimg.cc/8JjGK9Cb">
+<h1 align="center">Hi 👋, I'm <a href="https://prakhar-singh.netlify.app/" target="_blank">Naman Rana</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
+
+<h3 align="center">Software Developer &#127470; &#127475</h3>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=intensifyprakhar&label=Profile%20views&color=0047AB&style=plastic?" alt="intensifyprakhar" height=25px, width=160px/> 
+</p>
+
+ ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+</div>
+
+- 🔭 I’m final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
+
+- 🌱 I’m currently Working on MERN stack.
+
+- 🤝 I'm availble for freelancing.
+
+- 💬 Connect with Me on <a href="https://www.linkedin.com/in/naman-rana-065738228/" target="_blank">LinkedIn</a>
+
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fmxCO6C-nVqEyZ9LrMzGwpIzi5-UGfTu/view?usp=sharing">Resume</a>
+<br/>
+&nbsp;
+
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------->
  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
