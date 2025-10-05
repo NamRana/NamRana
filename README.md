@@ -85,7 +85,7 @@
 
 ---
 
-### 📊 GitHub & Competitive Programming Stats
+### 📊Competitive Programming Stats
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/namrana?theme=light&font=Noto%20Sans%20Math" width="375" alt="LeetCode Stats"/>
