@@ -55,10 +55,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
          alt="Hackerrank" height="30" width="40"/>
   </a>
-  <a href="https://codeforces.com/profile/namrana" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
-         alt="Codeforces" height="30" width="40"/>
-  </a>
   <a href="https://leetcode.com/namrana/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
          alt="LeetCode" height="30" width="40"/>
