@@ -44,14 +44,6 @@
 | B.Tech (CSE - AIML) | GL Bajaj Institute of Technology and Management, Greater Noida | 8.54 CGPA | Dec'20 - Aug'24 |
 | 10+2 (PCM+CS) | Little Scholars Academy, Amroha | 95.6% | 2019 - 2020 |
 
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Naman+Rana;Software+Engineer;Full+Stack+Developer"/>
-</h1>
-
----
-
 ### 🤝 Connect with me
 
 <p align="left">
