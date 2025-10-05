@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=namrana&label=Profile%20views&color=0e75b6&style=flat" 
        alt="namrana" height="25" width="160"/>
 </p>
-
+---
 ## <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50"/>
 </picture> About me
@@ -23,7 +23,7 @@
 - 💻 Ex **Software Development Intern at Persistent Systems**  
 - 🌱 Ex **Software Development Intern at EPAM Systems**
 
-
+---
 
 # 💻 Work Experience
 
@@ -33,7 +33,7 @@
 | Persistent Systems| Software Developer Intern| `Debugging` `Data Structures` `Problem Solving` | Internship | Jul'23 - Aug'23 |
 | EPAM Systems      | Software Developer Intern| `HTML` `CSS` `JS` `Python` `Django` `SQLite` | Internship | Oct'22 - Feb'23 |
 
-
+---
 
 # 🎓 Education
 
@@ -41,6 +41,8 @@
 |--------|--------------|--------|-----------|
 | B.Tech (CSE) | GL Bajaj Institute of Technology and Management, Greater Noida | 8.54 CGPA | Dec'20 - Aug'24 |
 | 10+2 (PCM+CS) | Little Scholars Academy, Amroha | 95.6% | 2019 - 2020 |
+
+---
 
 ### 🤝 Connect with me
 
