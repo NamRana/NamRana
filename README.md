@@ -23,7 +23,7 @@
 - 💻 Ex **Software Development Intern at Persistent Systems**  
 - 🌱 Ex **Software Development Intern at EPAM Systems**
 
----
+
 
 # 💻 Work Experience
 
@@ -33,7 +33,7 @@
 | Persistent Systems| Software Developer Intern| `Debugging` `Data Structures` `Problem Solving` | Internship | Jul'23 - Aug'23 |
 | EPAM Systems      | Software Developer Intern| `HTML` `CSS` `JS` `Python` `Django` `SQLite` | Internship | Oct'22 - Feb'23 |
 
----
+
 
 # 🎓 Education
 
