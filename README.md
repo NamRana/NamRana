@@ -31,7 +31,7 @@
 
 | Organization      | Position                | Skills | Type | Timeline |
 |-------------------|--------------------------|--------|------|-----------|
-| Q2 Software       | Associate Engineer       | `Python` `SQL` `GitLab` `Bitbucket` `Generative AI` | Full-Time | Aug'23 - Current |
+| Q2 Software       | Associate Engineer       | `Python` `SQL` `GitLab` `Bitbucket` `Generative AI` | Full-Time | Nov'23 - Current |
 | Persistent Systems| Software Developer Intern| `Debugging` `Data Structures` `Problem Solving` | Internship | Jul'23 - Aug'23 |
 | EPAM Systems      | Software Developer Intern| `HTML` `CSS` `JS` `Python` `Django` `SQLite` | Internship | Oct'22 - Feb'23 |
 
@@ -41,7 +41,7 @@
 
 | Degree | Institution | Score | Duration |
 |--------|--------------|--------|-----------|
-| B.Tech (CSE - AIML) | GL Bajaj Institute of Technology and Management, Greater Noida | 8.54 CGPA | Dec'20 - Aug'24 |
+| B.Tech (CSE) | GL Bajaj Institute of Technology and Management, Greater Noida | 8.54 CGPA | Dec'20 - Aug'24 |
 | 10+2 (PCM+CS) | Little Scholars Academy, Amroha | 95.6% | 2019 - 2020 |
 
 ### 🤝 Connect with me
