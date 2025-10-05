@@ -91,9 +91,10 @@
   <img src="https://leetcard.jacoblin.cool/namrana?theme=light&font=Noto%20Sans%20Math" width="375" alt="LeetCode Stats"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namrana" alt="GitHub Streak"/>
-</p>
+
+<div align="left">
+<img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namrana&theme=github" display=block width=100% height=auto alt="profile-summary">
+<div>
 
 ---
 
