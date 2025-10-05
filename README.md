@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=namrana&label=Profile%20views&color=0e75b6&style=flat" 
        alt="namrana" height="25" width="160"/>
 </p>
----
+
 ## <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50"/>
 </picture> About me
@@ -90,6 +90,8 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/namrana?theme=light&font=Noto%20Sans%20Math" width="375" alt="LeetCode Stats"/>
 </div>
+
+---
 
 ## 📈 Productivity Stats
 
