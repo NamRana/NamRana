@@ -12,13 +12,25 @@
 
 </div>
 
-- 🔭 I’m final year student at <a href="https://www.glbitm.org//" target="_blank">GLBITM</a>, Greater Noida
+• Currently working as Associate Engineer at Q2 Software <br>
+• Ex Software Development Intern at Persistent System<br>
+• Ex Ex Software Development Intern at EPAM System<br>
 
-- 🌱 I’m currently Working on MERN stack.
+# 💻 Work Experience:
+|Organization|Position|Skills|Type|Timeline| |
+|-----------|----------|-----------|-----------|-----------|----|
+|Q2 Software|Associate Engineer|```Python``` ```SQL``` ```GitLab``` ```Bitbucket``` ``` Generative AI ``` | Full-Time | Aug'24 - Current||
+|DoSelect|Problem Setter Intern|```Debugging Code``` ```Competitive Programming``` ```Data Structures``` ```Problem Solving```| Internship | Nov'23 - Jan'24 ||
+|HCL Technologies|Python Developer Intern|```HTML``` ```CSS``` ```JS``` ```Python```<br> ```Django``` ```Sqlite``` | Internship | Sept'22 - Dec'22|<a href="https://drive.google.com/file/d/1YXBWgI6eIH9xgzMGP_J9DKnvGp420P-u/view?usp=sharing"> Click </a>|
+|Hacktoberfest'22|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python```| Part-time | Oct'22(1 month)|<a href="https://www.holopin.io/@ashu012002#/"> Click </a>|
+|GSSoC'23|Open Source Contributor|```HTML``` ```CSS``` ```JS``` ```Python``` ```Tensorflow```| Part-time | May'23 - July'23|<a href="https://drive.google.com/file/d/1GTeC2qUQLdpddzB4vnHk1LtN9ZLl8flf/view?usp=sharing"> Click </a>|
 
-- 🤝 I'm availble for freelancing.
 
-- 💬 Connect with Me on <a href="https://www.linkedin.com/in/naman-rana-065738228/" target="_blank">LinkedIn</a>
+# 📚 Education:
+||Institution|Score|Duration| 
+|-----------|------------------|-----------|-----------|
+| B Tech (CSE AIML) | GL Bajaj Institute of Technology and Management, Greater Noida| 8.54 CGPA | Dec'20 - Aug'24 |
+| 10+2 (PCM+CS) | Little Scholars Acadmey, Amroha | 95.6% | 2019 - 2020 | 
 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1fmxCO6C-nVqEyZ9LrMzGwpIzi5-UGfTu/view?usp=sharing">Resume</a>
