@@ -22,7 +22,7 @@
 </picture>
 
 - 💼 Currently working as **Intermediate Engineer at Q2 Software**
-- 💼 Currently working as **Associate Engineer at Q2 Software**
+- 💼 Ex **Associate Engineer at Q2 Software**
 - 💻 Ex **Software Development Intern at Persistent Systems**  
 - 🌱 Ex **Software Development Intern at EPAM Systems**
 
