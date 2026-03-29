@@ -21,7 +21,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250"/>
 </picture>
 
-- 💼 Currently working as **Associate Engineer at Q2 Software**  
+- 💼 Currently working as **Intermediate Engineer at Q2 Software**  
 - 💻 Ex **Software Development Intern at Persistent Systems**  
 - 🌱 Ex **Software Development Intern at EPAM Systems**
 
