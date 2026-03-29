@@ -32,7 +32,7 @@
 
 | Organization      | Position                | Skills | Type | Timeline |
 |-------------------|--------------------------|--------|------|-----------|
-| Q2 Software       | Associate Engineer       | `Python` `SQL` `GitLab` `Bitbucket` `Generative AI` | Full-Time | Nov'23 - Current |
+| Q2 Software       | Intermediate Engineer       | `Python` `SQL` `GitLab` `Bitbucket` `Generative AI` | Full-Time | Nov'23 - Current |
 | Persistent Systems| Software Developer Intern| `Debugging` `Data Structures` `Problem Solving` | Internship | Jul'23 - Aug'23 |
 | EPAM Systems      | Software Developer Intern| `HTML` `CSS` `JS` `Python` `Django` `SQLite` | Internship | Oct'22 - Feb'23 |
 
