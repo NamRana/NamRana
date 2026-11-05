@@ -42,7 +42,6 @@
 
 | Degree | Institution | Score | Duration |
 |--------|--------------|--------|-----------|
-| B.Tech (CSE) | GL Bajaj Institute of Technology and Management, Greater Noida | 8.54 CGPA | Dec'20 - Aug'24 |
 | 10+2 (PCM+CS) | Little Scholars Academy, Amroha | 95.6% | 2019 - 2020 |
 
 ---
